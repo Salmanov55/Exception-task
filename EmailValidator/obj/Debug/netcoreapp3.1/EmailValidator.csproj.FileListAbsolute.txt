@@ -1,0 +1,14 @@
+C:\Users\Aydan\Desktop\EmailValidator\EmailValidator\bin\Debug\netcoreapp3.1\EmailValidator.exe
+C:\Users\Aydan\Desktop\EmailValidator\EmailValidator\bin\Debug\netcoreapp3.1\EmailValidator.deps.json
+C:\Users\Aydan\Desktop\EmailValidator\EmailValidator\bin\Debug\netcoreapp3.1\EmailValidator.runtimeconfig.json
+C:\Users\Aydan\Desktop\EmailValidator\EmailValidator\bin\Debug\netcoreapp3.1\EmailValidator.runtimeconfig.dev.json
+C:\Users\Aydan\Desktop\EmailValidator\EmailValidator\bin\Debug\netcoreapp3.1\EmailValidator.dll
+C:\Users\Aydan\Desktop\EmailValidator\EmailValidator\bin\Debug\netcoreapp3.1\EmailValidator.pdb
+C:\Users\Aydan\Desktop\EmailValidator\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.csproj.AssemblyReference.cache
+C:\Users\Aydan\Desktop\EmailValidator\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aydan\Desktop\EmailValidator\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.AssemblyInfoInputs.cache
+C:\Users\Aydan\Desktop\EmailValidator\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.AssemblyInfo.cs
+C:\Users\Aydan\Desktop\EmailValidator\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.csproj.CoreCompileInputs.cache
+C:\Users\Aydan\Desktop\EmailValidator\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.dll
+C:\Users\Aydan\Desktop\EmailValidator\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.pdb
+C:\Users\Aydan\Desktop\EmailValidator\EmailValidator\obj\Debug\netcoreapp3.1\EmailValidator.genruntimeconfig.cache
